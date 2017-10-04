@@ -68,6 +68,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="steeelfire" />
         <option value="mxpx" />
       </list>
     </option>
@@ -434,7 +435,7 @@
       <workItem from="1506786478604" duration="6000" />
       <workItem from="1506786491615" duration="8283000" />
       <workItem from="1507028508910" duration="5459000" />
-      <workItem from="1507117427495" duration="8716000" />
+      <workItem from="1507117427495" duration="8835000" />
     </task>
     <task id="LOCAL-00004" summary="firstCommit 2017">
       <created>1507125669906</created>
@@ -471,11 +472,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507126203812</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="firstCommit 2017">
+      <created>1507126282018</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1507126282018</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29867000" />
+    <option name="totallyTimeSpent" value="29986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
