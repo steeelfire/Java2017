@@ -2,187 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2b6c5c7-fc0e-4dd8-a580-effc3db2b824" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/Countxx.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/Movie.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/Seconf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170704/ArrayListExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170704/ArraysExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170704/ArraysInit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/EvilString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/MyString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/PrintlnConcatinationExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/StringBuilderAndStringBuffer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/StringExample2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/StringExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/StringMethods.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/SystemArrayCopy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170707/CollectionsExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170707/StringArrayList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170707/StringMethods2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170707/StringMethodsPractice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170707/ToArrayExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170707/UseStringArrayList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/LinkedListExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/Node.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/StringLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/UseStringLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/datetime/Examples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/datetime/Stopwatch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/wraperclasses/IntegerMethods.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/wraperclasses/WrapperClasses.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/wraperclasses/WrapperProblems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/StringStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/UseStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/NeibourOfA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/OldApproach.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/X.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/part2/AlienToA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/part2/HeirOfA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/part2/Y.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/Inheritance/A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/Inheritance/B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/Inheritance/C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/Inheritance/D.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/Inheritance/E.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/Inheritance/Sample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/FinalExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Hamster.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/HomeBot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Linkage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Mammal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Pet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Rat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Rodent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/SuperSuperExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/other/AlienToA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/other/B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/other/Heir.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/other/UseB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/ArrayStackofStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/ComputerMouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/PairExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/SwapExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/Vehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/inheritance/ComputerMouse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/inheritance/PointingDevice.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/inheritance/Tablet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Chair.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Cleanable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/CleaningBot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Drum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Furniture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Istrument.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/RunnableExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Table.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Violine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/Use.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/X.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/Y.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/Z.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/Anonymous.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/DemoInterfaces.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/MymouseListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/SerializableDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/TaggedInterfaceDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/dogbrain/Brain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/dogbrain/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/dogbrain/Pet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/dogbrain/TakeCare.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/inner/InnerExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/inner/Outer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/inner/StaticExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/inner/Use.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/CanHop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/ConstructionDependencyExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Frog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Furniture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Hidden.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/InterfaceExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/IteratorExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Mammal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/ObjectCreationSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Pet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Special.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/StringLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/UseListWithIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/UseSpecial.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Worker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/DivisionbyZero.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/Example2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/ExceptionsExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/FileWithResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/FinallyExample2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/MultiCatchExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/NPE.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/NoInstrument.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/NoShown.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/OverridingCloseExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/ReThrowExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/RuntimeExceptionExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/SimpleFinallyExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/StringStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TroubleWithMachinery.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TryCatchFinallyExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TryFinallyExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TryWithResourceExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/UseStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/LongProtocol.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/X.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Y.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/defaultsAndThisExample/DefaultsAndThisExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/GenericMethodsExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/GenericsExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoption3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoptionExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoptionUsingGenericsExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoptionWithErasure.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/MoreGenericExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/PREGenericsExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/StringStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/UseStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/collections/DataStructuresInJava.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/collections/MapExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/collections/PriorityQueExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/BoundsExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/MultipleBounds.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/NodeInList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/WildCardsExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/ArrayListVSLinkesList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/ExceptionExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/HashCodeExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/SetExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/ToArrayExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/ComparatorB.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/ComparatorExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/Dictionary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/News.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/OptimizeExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/SortClassExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/UseDictionary.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/SortExample.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaCourse2017/Описание видосов2.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/Описание видосов.docx" afterPath="$PROJECT_DIR$/../JavaCourse2017/Описание видосов.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaCourse2017/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/First.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/First.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/A.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/A.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Use.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Use.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/finalizeExample.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/finalizeExample.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classtructure/UseA.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classtructure/UseA.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/reflection_basics/Examples.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/reflection_basics/Examples.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Example3.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Example3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/GuardConditions.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/GuardConditions.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/mytestframework/Asserts.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/mytestframework/Asserts.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../JavaCourse2017/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -200,8 +20,8 @@
       <file leaf-file-name="SortedSetExample.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/SortedSetExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+            <state relative-caret-position="432">
+              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -714,7 +534,7 @@
       <workItem from="1507573951722" duration="19544000" />
       <workItem from="1507631747226" duration="9386000" />
       <workItem from="1507717911312" duration="47343000" />
-      <workItem from="1508067709421" duration="67822000" />
+      <workItem from="1508067709421" duration="68160000" />
     </task>
     <task id="LOCAL-00004" summary="firstCommit 2017">
       <created>1507125669906</created>
@@ -807,11 +627,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507224854675</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="lesson 170811">
+      <created>1508416652024</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1508416652024</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253101000" />
+    <option name="totallyTimeSpent" value="253439000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -824,7 +651,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -844,7 +670,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20294784" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2324263" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2324263" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276644" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17669173" sideWeight="0.49442896" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17420815" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -896,7 +722,8 @@
     <MESSAGE value="third commit" />
     <MESSAGE value="new commit" />
     <MESSAGE value="lesson 170701" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 170701" />
+    <MESSAGE value="lesson 170811" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 170811" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1376,8 +1203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/SortedSetExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        <state relative-caret-position="432">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding />
         </state>
       </provider>
