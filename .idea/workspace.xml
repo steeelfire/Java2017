@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2b6c5c7-fc0e-4dd8-a580-effc3db2b824" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/AnotherComparatorsExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/BinarySearchExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/ComparatorExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/Mid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/SortClassExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/SortedSetExample.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaCourse2017/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../JavaCourse2017/out/" />
@@ -534,7 +540,7 @@
       <workItem from="1507573951722" duration="19544000" />
       <workItem from="1507631747226" duration="9386000" />
       <workItem from="1507717911312" duration="47343000" />
-      <workItem from="1508067709421" duration="68160000" />
+      <workItem from="1508067709421" duration="68231000" />
     </task>
     <task id="LOCAL-00004" summary="firstCommit 2017">
       <created>1507125669906</created>
@@ -634,11 +640,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508416652024</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="lesson 170811_2">
+      <created>1508416937632</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1508416937632</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253439000" />
+    <option name="totallyTimeSpent" value="253510000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -723,7 +736,8 @@
     <MESSAGE value="new commit" />
     <MESSAGE value="lesson 170701" />
     <MESSAGE value="lesson 170811" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 170811" />
+    <MESSAGE value="lesson 170811_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 170811_2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
