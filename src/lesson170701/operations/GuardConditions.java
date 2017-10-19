@@ -3,7 +3,11 @@ package lesson170701.operations;
 public class GuardConditions {
 
     public static void main(String[] args) {
-        m(10);
+
+
+        String string = "";
+        string.charAt(string.length()-1);
+
     }
 
     private static void m(int i) {

@@ -14,7 +14,7 @@ public class Examples {
             System.out.println(meth);
         }
 
-//        A a = new A();
+//        Sample a = new Sample();
 
         A a = c.newInstance();
 

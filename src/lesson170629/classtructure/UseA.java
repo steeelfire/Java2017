@@ -10,7 +10,7 @@ public class UseA {
 
         System.out.println(a1.compare(a2));
 
-//        A.compare(this,a2);
+//        Sample.compare(this,a2);
         System.out.println(A.instanceCounter);
     }
 }

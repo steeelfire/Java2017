@@ -19,6 +19,6 @@ public class finalizeExample {
         while(true){
             storage.add(new A());
         }
-//        new A();
+//        new Sample();
     }
 }

@@ -2,7 +2,7 @@ package lesson170625.creation;
 
 public class Use {
     public static void main(String[] args) {
-//        A a = new A();
+//        Sample a = new Sample();
 //
 //        System.out.println(a);
 

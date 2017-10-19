@@ -6,7 +6,7 @@ public class Asserts {
         //return actual == expected;  //Сравниваются адреса объектов, а не значения.
         boolean equals = actual.equals(expected);
         if (!equals) {
-            System.err.println("Test failed: expected " + expected + "  actual" + actual);
+            System.err.println("Test failed: expected '" + expected + "'  actual '" + actual + "'");
         }
         return equals;
     }
@@ -16,7 +16,7 @@ public class Asserts {
         //return actual == expected;  //Сравниваются адреса объектов, а не значения.
         boolean notEquals = !actual.equals(expected);
         if (!notEquals) {
-            System.err.println("Test failed: expected NOT " + expected + "  actual" + actual);
+            System.err.println("Test failed: expected NOT '" + expected + "'  actual" + actual + "'");
         }
         return notEquals;
     }
@@ -24,7 +24,7 @@ public class Asserts {
     public static boolean assertEquals(int actual, int expected) {
         boolean equals = actual == expected;
         if (!equals) {
-            System.err.println("Test failed: expected " + expected + "  actual" + actual);
+            System.err.println("Test failed: expected '" + expected + "'  actual'" + actual+"'");
         }
         return equals;
     }
@@ -32,7 +32,7 @@ public class Asserts {
     public static boolean assertNotEquals(int actual, int expected) {
         boolean notEquals = actual != expected;
         if (!notEquals) {
-            System.err.println("Test failed: expected NOT " + expected + "  actual" + actual);
+            System.err.println("Test failed: expected NOT '" + expected + "'  actual'" + actual +"'");
         }
         return notEquals;
     }

@@ -4,16 +4,16 @@ public class A {
     int i;
     long timestamp;
     {
-        System.out.println("init A");
+        System.out.println("init Sample");
     }
 
     public A() {
         super();
-        System.out.println("Constructor A");
+        System.out.println("Constructor Sample");
         i = 10;
         timestamp = System.currentTimeMillis();
     }
     {
-        System.out.println("init2 A");
+        System.out.println("init2 Sample");
     }
 }

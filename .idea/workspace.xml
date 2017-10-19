@@ -2,38 +2,187 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2b6c5c7-fc0e-4dd8-a580-effc3db2b824" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/B.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/C.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Fields.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Point.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Singleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/SuperExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Use.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/WholePicture.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Z.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/Examples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/PrimitiveTypes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/finalizeExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/Declarations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/StaticIntSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classtructure/A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classtructure/SyncExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classtructure/UseA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classwork/DataGenerator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classwork/Genome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/mainargs/MainArgs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/reflection_basics/A.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/reflection_basics/Examples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/variablescope/VariableScope.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/genome/GenomeWithSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Example3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Examples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Exaqmple2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/GuardConditions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/Countxx.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/Movie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/Seconf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170704/ArrayListExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170704/ArraysExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170704/ArraysInit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/EvilString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/MyString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/PrintlnConcatinationExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/StringBuilderAndStringBuffer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/StringExample2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/StringExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/StringMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170706/SystemArrayCopy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170707/CollectionsExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170707/StringArrayList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170707/StringMethods2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170707/StringMethodsPractice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170707/ToArrayExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170707/UseStringArrayList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/LinkedListExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/StringLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/UseStringLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/datetime/Examples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/datetime/Stopwatch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/wraperclasses/IntegerMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/wraperclasses/WrapperClasses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170710/wraperclasses/WrapperProblems.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/StringStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/UseStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/NeibourOfA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/OldApproach.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/X.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/part2/AlienToA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/part2/HeirOfA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/part2/Y.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/B.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/Inheritance/A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/Inheritance/B.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/Inheritance/C.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/Inheritance/D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/Inheritance/E.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/Inheritance/Sample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Cat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Dog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/FinalExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Hamster.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/HomeBot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Linkage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Mammal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Pet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Rat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/Rodent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/inheritance2/SuperSuperExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/other/AlienToA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/other/B.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/other/Heir.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170714/encapsulation/part3/other/UseB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/ArrayStackofStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/ComputerMouse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/PairExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/SwapExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/inheritance/ComputerMouse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/inheritance/PointingDevice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/inheritance/Tablet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Chair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Cleanable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/CleaningBot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Drum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Furniture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Istrument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/RunnableExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Table.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/Violine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/B.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/C.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/Use.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/X.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/Y.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170719/interfaces/part1/Z.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/Anonymous.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/DemoInterfaces.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/MymouseListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/SerializableDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/TaggedInterfaceDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/dogbrain/Brain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/dogbrain/Dog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/dogbrain/Pet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/dogbrain/TakeCare.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/inner/InnerExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/inner/Outer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/inner/StaticExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170724/inner/Use.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/CanHop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/ConstructionDependencyExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Frog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Furniture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Hidden.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/InterfaceExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/IteratorExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Mammal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/ObjectCreationSequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Pet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Special.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/StringLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/UseListWithIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/UseSpecial.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170726/test/Worker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/DivisionbyZero.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/Example2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/ExceptionsExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/FileWithResource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/FinallyExample2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/MultiCatchExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/NPE.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/NoInstrument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/NoShown.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/OverridingCloseExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/ReThrowExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/RuntimeExceptionExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/SimpleFinallyExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/StringStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TroubleWithMachinery.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TryCatchFinallyExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TryFinallyExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TryWithResourceExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/UseStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/LongProtocol.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/X.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Y.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/defaultsAndThisExample/DefaultsAndThisExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/GenericMethodsExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/GenericsExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoption3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoptionExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoptionUsingGenericsExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoptionWithErasure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/MoreGenericExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/PREGenericsExamples.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/StringStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/UseStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/collections/DataStructuresInJava.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/collections/MapExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/collections/PriorityQueExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/BoundsExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/MultipleBounds.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/NodeInList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/WildCardsExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/ArrayListVSLinkesList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/ExceptionExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/HashCodeExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/SetExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/ToArrayExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/ComparatorB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/ComparatorExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/Dictionary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/News.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/OptimizeExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/SortClassExample.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/UseDictionary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/SortExample.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../JavaCourse2017/Описание видосов2.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/Описание видосов.docx" afterPath="$PROJECT_DIR$/../JavaCourse2017/Описание видосов.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JavaCourse2017/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/First.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/First.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/A.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/A.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Use.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Use.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/finalizeExample.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/finalizeExample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classtructure/UseA.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classtructure/UseA.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/reflection_basics/Examples.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/reflection_basics/Examples.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Example3.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Example3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/GuardConditions.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/GuardConditions.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../JavaCourse2017/src/mytestframework/Asserts.java" afterPath="$PROJECT_DIR$/../JavaCourse2017/src/mytestframework/Asserts.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../JavaCourse2017/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,69 +192,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaCourse2017" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Genome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classwork/Genome.java">
+    <leaf>
+      <file leaf-file-name="SortedSetExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/SortedSetExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="540">
+              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenomeWithSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/genome/GenomeWithSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Examples.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Examples.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exaqmple2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Exaqmple2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Example3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Example3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GuardConditions.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/GuardConditions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-              <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -115,9 +212,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Singleton" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inter</find>
+      <find>intern</find>
+      <find>length</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -136,55 +242,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170620/Hello.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/FizzBuzz.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/FizzBuzzTest.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/First.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/Equals.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/SimpleUnit.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/MathUtils.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/MaxTest.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/class_structure/SimplestClass.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/class_structure/Imports.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/Imports.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/mytestframework/SimpleUnit.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/mytestframework/Asserts.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/B.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/A.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/UseA.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/C.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/SuperExample.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Singlton.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Singleton.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Z.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Point.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Fields.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/WholePicture.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Use.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/Examples.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/finalize.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/finalizeExample.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/PrimitiveTypes.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/Declarations.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/StaticIntSequence.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/A.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/mainargs/MainArgs.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classtructure/A.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/basics/A.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/basics/Examples.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classtructure/UseA.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classtructure/SyncExample.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/reflection_basics/Examples.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/variablescope/VariableScope.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classwork/DataDenerator.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classwork/DataGenerator.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classwork/Genome.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/lesson170701/genome/GenomeWithSort.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/genome/GenomeWithSort.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Examples.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Exaqmple2.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Example3.java" />
-        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/GuardConditions.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/NPE.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/UseStack.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/Movie.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/StringStack.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/MultiCatchExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/NoShown.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/NoInstrument.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TroubleWithMachinery.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/ReThrowExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TryFinallyExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/SimpleFinallyExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/FinallyExample2.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TryCatchFinallyExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TryWithResourceExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/FileWithResource.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/OverridingCloseExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/PREGenericsExamples.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/GenericsExamples.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/defaultsAndThisExample/DefaultsAndThisExamples.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/StringStack.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/UseStack.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoptionExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoptionUsingGenericsExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoptionWithErasure.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/GenericMethodsExamples.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoption3.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/MoreGenericExamples.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/BoundsExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/MultipleBounds.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/WildCardsExamplr.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/WildCardsExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/NodeInList.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/collections/MapExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/collections/DataStructuresInJava.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/collections/PriorityQueExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/ExceptionExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/SetExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/ToArrayExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/ArrayListVSLinkesList.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/HashMAp.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/HashCodeExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/News.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/OptimizeExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/UseDictionary.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/Dictionary.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/Seconf.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/SortClassExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/ComparatorExample.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/ComparatorB.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/Countxx.java" />
+        <option value="$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/SortExample.java" />
       </list>
     </option>
   </component>
@@ -201,8 +309,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="459" />
+    <option name="y" value="57" />
     <option name="width" value="865" />
     <option name="height" value="928" />
   </component>
@@ -224,23 +332,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaCourse2017" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaCourse2017" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaCourse2017" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaCourse2017" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
@@ -252,18 +343,18 @@
             <path>
               <item name="JavaCourse2017" type="58d84e3e:PackageViewProjectNode" />
               <item name="JavaCourse2017" type="616d4139:PackageViewModuleNode" />
-              <item name="lesson170701" type="1f31426a:PackageElementNode" />
+              <item name="CODINGBAT" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="JavaCourse2017" type="58d84e3e:PackageViewProjectNode" />
               <item name="JavaCourse2017" type="616d4139:PackageViewModuleNode" />
-              <item name="lesson170701" type="1f31426a:PackageElementNode" />
-              <item name="operations" type="1f31426a:PackageElementNode" />
+              <item name="lesson170811" type="1f31426a:PackageElementNode" />
             </path>
             <path>
               <item name="JavaCourse2017" type="58d84e3e:PackageViewProjectNode" />
               <item name="JavaCourse2017" type="616d4139:PackageViewModuleNode" />
-              <item name="mytestframework" type="1f31426a:PackageElementNode" />
+              <item name="lesson170811" type="1f31426a:PackageElementNode" />
+              <item name="SortedSetExample.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -303,6 +394,23 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaCourse2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCourse2017" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCourse2017" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCourse2017" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,20 +419,39 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaCourse2017" />
-    <property name="SearchEverywhereHistoryKey" value="Si&#9;FILE&#9;file://D:/JavaCourse2017/src/lesson170625/creation/Singleton.java" />
+    <property name="SearchEverywhereHistoryKey" value="Array&#9;FILE&#9;file://D:/JavaCourse2017/src/lesson170704/ArrayListExample.java&#10;StringBui&#9;RUN_CONFIGURATION&#9;StringBuilderAndStringBuffer&#10;Si&#9;FILE&#9;file://D:/JavaCourse2017/src/lesson170625/creation/Singleton.java" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="lesson170726.test" />
+      <recent name="lesson170724" />
+      <recent name="lesson170719.inheritance" />
+    </key>
     <key name="MoveMembersDialog.RECENTS_KEY">
       <recent name="lesson170624.FizzBuzz" />
       <recent name="lesson170624.SimpleUnit" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lesson170724" />
       <recent name="mytestframework" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaCourse2017\src\lesson170802\generics" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lesson170802.generics" />
+      <recent name="lesson170728.Exceptions" />
+      <recent name="lesson170726.test" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="lesson170624" />
+      <recent name="lesson170809" />
+      <recent name="lesson170728.Exceptions" />
+      <recent name="lesson170728" />
+      <recent name="lesson170719.interfaces.part1" />
+      <recent name="lesson170719.interfaces" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -339,15 +466,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exaqmple2">
-    <configuration name="Examples (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Countxx">
+    <configuration name="Countxx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson170701.operations.*" />
+          <option name="PATTERN" value="CODINGBAT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson170701.operations.Examples" />
+      <option name="MAIN_CLASS_NAME" value="CODINGBAT.Countxx" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../JavaCourse2017" />
@@ -359,14 +486,14 @@
       <module name="JavaCourse2017" />
       <envs />
     </configuration>
-    <configuration name="Exaqmple2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PREGenericsExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson170701.operations.*" />
+          <option name="PATTERN" value="lesson170802.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson170701.operations.Exaqmple2" />
+      <option name="MAIN_CLASS_NAME" value="lesson170802.generics.PREGenericsExamples" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../JavaCourse2017" />
@@ -378,14 +505,14 @@
       <module name="JavaCourse2017" />
       <envs />
     </configuration>
-    <configuration name="Genome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Seconf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson170629.classwork.*" />
+          <option name="PATTERN" value="CODINGBAT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson170629.classwork.Genome" />
+      <option name="MAIN_CLASS_NAME" value="CODINGBAT.Seconf" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../JavaCourse2017" />
@@ -397,14 +524,14 @@
       <module name="JavaCourse2017" />
       <envs />
     </configuration>
-    <configuration name="GenomeWithSort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SortClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson170701.genome.*" />
+          <option name="PATTERN" value="lesson170809.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson170701.genome.GenomeWithSort" />
+      <option name="MAIN_CLASS_NAME" value="lesson170809.SortClassExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../JavaCourse2017" />
@@ -416,14 +543,33 @@
       <module name="JavaCourse2017" />
       <envs />
     </configuration>
-    <configuration name="GenomeWithSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SortExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson170701.lesson170701.genome.*" />
+          <option name="PATTERN" value="lesson170811.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson170701.lesson170701.genome.GenomeWithSort" />
+      <option name="MAIN_CLASS_NAME" value="lesson170811.SortExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../JavaCourse2017" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaCourse2017" />
+      <envs />
+    </configuration>
+    <configuration name="UseDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson170809.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson170809.UseDictionary" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../JavaCourse2017" />
@@ -517,24 +663,27 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Genome" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GenomeWithSort" />
-      <item index="2" class="java.lang.String" itemvalue="Application.GenomeWithSort (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Examples (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Exaqmple2" />
+      <item index="0" class="java.lang.String" itemvalue="Application.UseDictionary" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Seconf" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SortExample" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SortClassExample" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Countxx" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Exaqmple2" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Examples (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.GenomeWithSort (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GenomeWithSort" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Genome" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Countxx" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SortClassExample" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SortExample" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Seconf" />
+        <item index="4" class="java.lang.String" itemvalue="Application.UseDictionary" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task id="Default" summary="Default task">
@@ -561,7 +710,11 @@
       <workItem from="1507128305658" duration="2624000" />
       <workItem from="1507131502920" duration="2974000" />
       <workItem from="1507134682240" duration="16591000" />
-      <workItem from="1507204914444" duration="10940000" />
+      <workItem from="1507204914444" duration="54964000" />
+      <workItem from="1507573951722" duration="19544000" />
+      <workItem from="1507631747226" duration="9386000" />
+      <workItem from="1507717911312" duration="47343000" />
+      <workItem from="1508067709421" duration="67822000" />
     </task>
     <task id="LOCAL-00004" summary="firstCommit 2017">
       <created>1507125669906</created>
@@ -647,11 +800,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507131633946</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="lesson 170701">
+      <created>1507224854675</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1507224854675</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64982000" />
+    <option name="totallyTimeSpent" value="253101000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -664,35 +824,37 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27676538" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24382384" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276644" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34728506" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17913832" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280543" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22665147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23348519" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11063373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20294784" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2324263" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276644" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17669173" sideWeight="0.49442896" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17420815" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1358754" sideWeight="0.505571" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="91" y="91" width="1738" height="848" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -733,260 +895,301 @@
     <MESSAGE value="secondCommit 2017" />
     <MESSAGE value="third commit" />
     <MESSAGE value="new commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+    <MESSAGE value="lesson 170701" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 170701" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/Equals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/First.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/MathUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/mytestframework/Asserts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/FizzBuzzTest.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/UseStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" column="72" lean-forward="false" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/MaxTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/Equals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/First.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/MathUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/mytestframework/Asserts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170620/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/FizzBuzz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/First.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/Equals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/MathUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/MaxTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="76" lean-forward="false" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/class_structure/SimplestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/class_structure/Imports.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="67" lean-forward="true" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/Imports.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/mytestframework/Asserts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170624/FizzBuzzTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <caret line="8" column="54" lean-forward="true" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/C.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/StringStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="270">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/SuperExample.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/MultiCatchExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/NoShown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/NoInstrument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
           <folding>
-            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TroubleWithMachinery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
             <element signature="e#206#207#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Z.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/ReThrowExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TryFinallyExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/FinallyExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/SimpleFinallyExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TryCatchFinallyExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/TryWithResourceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/FileWithResource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding>
-            <element signature="e#241#242#0" expanded="false" />
-            <element signature="e#290#291#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Point.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170728/Exceptions/OverridingCloseExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Fields.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="21" column="21" lean-forward="false" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="837">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Use.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/PREGenericsExamples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/WholePicture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="135">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/finalizeExample.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/GenericsExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/defaultsAndThisExample/DefaultsAndThisExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#373#374#0" expanded="false" />
+            <element signature="e#412#413#0" expanded="false" />
+            <element signature="e#449#450#0" expanded="false" />
+            <element signature="e#488#489#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/encapsulation/OldApproach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170712/StringStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/StringStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/UseStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoptionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoptionUsingGenericsExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/Examples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/primitivetypes/PrimitiveTypes.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoptionWithErasure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="37" column="35" lean-forward="true" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        <state relative-caret-position="351">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="13" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/Declarations.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/GenericMethodsExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#113#114#0" expanded="false" />
+            <element signature="e#171#172#0" expanded="false" />
+            <element signature="e#224#225#0" expanded="false" />
+            <element signature="e#249#250#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/MoreGenericExamples.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170802/generics/InterfaceAdoption3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/BoundsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#317#318#0" expanded="false" />
+            <element signature="e#364#365#0" expanded="false" />
+            <element signature="e#418#419#0" expanded="false" />
+            <element signature="e#465#466#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/MultipleBounds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/WildCardsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="25" column="90" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/generics2/NodeInList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -994,152 +1197,188 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/StaticIntSequence.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/collections/MapExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classtructure/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#347#348#0" expanded="false" />
-            <element signature="e#618#619#0" expanded="false" />
-            <element signature="e#661#662#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/mainargs/MainArgs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170625/creation/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classtructure/UseA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classtructure/SyncExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/reflection_basics/Examples.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="378">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/variablescope/VariableScope.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/collections/DataStructuresInJava.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="1269">
+          <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/reflection_basics/A.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170804/collections/PriorityQueExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state relative-caret-position="653">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
           <folding>
-            <element signature="e#78#79#0" expanded="false" />
-            <element signature="e#118#119#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classwork/Genome.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/ExceptionExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170629/classwork/DataGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="432">
           <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/genome/GenomeWithSort.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/SetExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        <state relative-caret-position="540">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/ToArrayExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/ArrayListVSLinkesList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170807/HashCodeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/News.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/OptimizeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="58" lean-forward="true" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2290#2291#0" expanded="true" />
+            <element signature="e#2354#2355#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Examples.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/Seconf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        <state relative-caret-position="243">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Exaqmple2.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/UseDictionary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="540">
+          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/Example3.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/ComparatorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#421#422#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/SortClassExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170809/ComparatorB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/First.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170701/operations/GuardConditions.java">
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/CODINGBAT/Countxx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="432">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/SortExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse2017/src/lesson170811/SortedSetExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
